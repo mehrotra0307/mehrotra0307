@@ -10,7 +10,7 @@ Android developer who got pulled deep into the AI rabbit hole and never looked b
 - Exploring on-device LLMs with GGUF, llama.cpp, and MediaPipe
 - Digging into how fine-tuning actually works under the hood, from data prep to evaluation, not just calling an API
 - Building and deploying agents on GCP (Vertex AI, Google ADK), with hands-on experience on AWS too (Bedrock, SageMaker)
-- Thinking about evaluation and guardrails for agents, not just getting them to work
+- Actively working on the backend that makes agentic systems reliable, evaluation, guardrails, observability, and memory, all in service of the real goal: building agentic systems that run on mobile
 - Writing about what I learn, because the AI space moves too fast not to
 - Documenting everything at [ashishmehrotra.com](https://ashishmehrotra.com), from Android apps to agentic systems to on-device LLMs
 
