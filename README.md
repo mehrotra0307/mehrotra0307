@@ -1,40 +1,43 @@
-# Hi, I'm Ashish 👋
-
-Android engineer, 5+ years, now focused on telematics and on-device AI.
+# Hi, I'm Ashish Mehrotra 👋
 
 [![Profile views](https://komarev.com/ghpvc/?username=mehrotra0307&color=blue)](https://github.com/mehrotra0307)
 
-## About Me
+Android developer who got pulled deep into the AI rabbit hole and never looked back. I build mobile apps and spend my free time experimenting with running AI on-device, building agents, and figuring out what all this new tech actually means in practice.
 
-- Software Development Engineer II (Android) at **Allstate**, working on a telematics app used by **400K+ users**, turning real time driving data into safety scores and behavioral insights
-- Designed and shipped Allstate's first production AI agent (L1 to L2 customer support routing), built with Google ADK and deployed on Vertex AI Agent Engine, with a full evaluation framework and safety guardrails
-- Migrated the company's analytics stack from Amplitude to BigQuery, cutting about $150K in annual licensing cost
-- Previously built Android features for a large scale United Airlines application at Tata Consultancy Services
+## Right now
 
-## What I'm Building
+- Building AI-powered Android apps and agents
+- Exploring on-device ML with GGUF, llama.cpp, MediaPipe, and Gemma
+- Building agents on GCP, with some hands-on AWS experience too
+- Writing about what I learn, because the AI space moves too fast not to
 
-Independent, open source exploration of on-device AI and agentic systems, all documented with write ups and demo videos at [ashishmehrotra.com](https://ashishmehrotra.com):
+## Tech Stack
 
-- **Codebase Explainer** — multi-agent system that explains any codebase, built with Google ADK, LangGraph, CrewAI, and the A2A protocol
-- **Reading DNA Bot** — Telegram bot that builds a personalized reading profile and recommends books, built with Google ADK 2.1 and Gemini 2.5 Flash
-- **Post-Crash AI Assistant** — Gemma 3 running fully on-device to voice-triage a driver after a crash, demoed directly to Allstate's CEO
-- **AI Driving Helper** — on-device RAG driving coach answering voice questions grounded in real trip history
-- **Recipe Scanner** — Gemma 4 on-device, translating recipe photos across 140+ languages
-- **MemoryVault** — semantic search across photos, PDFs, and audio using Gemini Embedding 2
-- **Diffusion Gemma Showdown** — live comparison of Google's DiffusionGemma against regular Gemma 4
+**Mobile**
 
-Full project list and write ups: [ashishmehrotra.com](https://ashishmehrotra.com)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-## Tech I Work With
+**AI / Agents**
 
-**Android:** Kotlin, Java, Jetpack Compose, MVVM, Koin, Dagger2, Coroutines, Retrofit, Room
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**AI / Agents:** Google ADK, LangGraph, CrewAI, A2A Protocol, On-Device LLMs (Gemma, MediaPipe, LiteRT-LM), RAG, Vertex AI Agent Engine
+**Cloud & Backend**
 
-**Infra:** GCP, AWS, BigQuery, Firebase, CI/CD (Jenkins)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ## Connect
 
-- Portfolio & blog: [ashishmehrotra.com](https://ashishmehrotra.com)
-- LinkedIn: [linkedin.com/in/ashishmehrotra03](https://linkedin.com/in/ashishmehrotra03)
-- Email: ashishmehrotra03@gmail.com
+[Portfolio & blog](https://ashishmehrotra.com) · [LinkedIn](https://linkedin.com/in/ashishmehrotra03) · ashishmehrotra03@gmail.com
