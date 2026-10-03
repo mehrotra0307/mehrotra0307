@@ -1,6 +1,5 @@
 # Hi, I'm Ashish Mehrotra 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=mehrotra0307&color=blue)](https://github.com/mehrotra0307)
 
 Android developer who got pulled deep into the AI rabbit hole and never looked back. I build production Android apps and spend my free time experimenting with running AI on-device, building agents, and figuring out what all this new tech actually means in practice. I like understanding things by building them, so whenever something new drops, a model, a framework, a technique, I try it, break it, and write about what I learn.
 
